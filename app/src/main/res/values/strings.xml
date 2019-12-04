@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Electronics List</string>
+    <array name="title">
+        <item>HP ENVY Laptop.
+        </item>
+        <item>Tribit XFree Tune Bluetooth Headphones.
+        </item>
+        <item>HP Chromebook 14-inch Laptop with 180-Degree Hinge.
+        </item>
+        <item>Apple iPad 2.
+        </item>
+        <item>Samsung UN55RU7100FXZA Flat 55-Inch
+        </item>
+    </array>
+    <array name="price">
+        <item>Price: $540.00</item>
+        <item>Price: $100.40</item>
+        <item>Price: $1000</item>
+        <item>Price: $600</item>
+        <item>Price: $800</item>
+    </array>
+    <array name="color">
+        <item>Color: white</item>
+        <item>Color: Black</item>
+        <item>Color: Any you want</item>
+        <item>Color: Any you want</item>
+        <item>Color: Black</item>
+    </array>
+    <array name="itemId">
+        <item>11111</item>
+        <item>22222</item>
+        <item>33333</item>
+        <item>4444</item>
+        <item>55555</item>
+    </array>
+    <array name="desc">
+        <item>HP ENVY Laptop.
+        </item>
+        <item>IP Phones.
+        </item>
+        <item>HP Chromebook 14-inch Laptop with 180-Degree Hinge.
+        </item>
+        <item>16 GB of integrated storage, 0.512 GB DDR2, and a 1 GHz Apple A5 processor
+        </item>
+        <item>Samsung UN55RU7100FXZA Flat 55-Inch
+        </item>
+    </array>
+
+    <array name="detail">
+        <item>PANASONIC LUMIX FZ80 4K Digital Camera, 18.1 Megapixel Video Camera, 60X Zoom DC VARIO
+            20-1200mm Lens, F2.8-5.9 Aperture, POWER O.I.S. Stabilization, Touch Enabled 3-Inch LCD,
+            Wi-Fi, DC-FZ80K (Black)
+        </item>
+        <item>The Grandstream GXP2140 phone is an attractive desktop device offering a wide range of features,
+            Enjoy HD VoIP through the handset and speakerphone, or join five-way conferencing.
+            The RJ9 port and Bluetooth support offer
+        </item>
+        <item>HP Chromebook 14-inch Laptop with 180-Degree Hinge, AMD Dual-Core A4-9120 Processor, 4
+            GB SDRAM, 32 GB eMMC Storage, Chrome OS (14-db0030nr, Snow White)
+        </item>
+        <item>The world is in your hands with the Apple iPad 2, featuring Wi-Fi and a spacious 9.7-inch screen.
+            This second generation iPad provides users with 16 GB of integrated storage, 0.512 GB DDR2,
+            and a 1 GHz Apple A5 processor. It has a multi-touch screen with LED backlight, 0.7 MP back camera,
+            and 0.7 MP front camera.
+        </item>
+        <item>Samsung UN55RU7100FXZA Flat 55-Inch 4K UHD 7 Series Ultra HD Smart TV with HDR and
+            Alexa Compatibility (2019 Model)
+        </item>
+    </array>
+</resources>
+
